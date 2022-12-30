@@ -17,7 +17,7 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | https://www.sololearn.com/learning/1060 | Basics of SQL | **Completed** |
 #### Literature
 | Title | Author | Status | Link |
-| --- | :---: | :---: |
+| --- | :---: | :---: | :---: |
 | The Joy of PHP: A Beginner's Guide to Programming Interactive Web Applications with PHP and mySQL | 
 Alan Forbes | In progress | https://www.amazon.com/Joy-PHP-Programming-Interactive-Applications-ebook/dp/B00BALXN70 |
 | PHP & MySQL – Novice to Ninja | Tom Butler, Kevin Yank | In progress | https://www.amazon.com/PHP-MySQL-Novice-Database-Website/dp/0987153080 |
