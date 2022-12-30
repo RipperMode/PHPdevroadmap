@@ -6,9 +6,9 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 <img src="https://i.ibb.co/WGL20ZX/st-small-507x507-pad-600x600-f8f8f8.jpg" width="400">
 </p>
 
-##Programming
-###Basics
-####Courses
+## Programming
+### Basics
+#### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | https://www.sololearn.com/learning/1014 | Basics of HTML | **Completed** |
