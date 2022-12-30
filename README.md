@@ -6,9 +6,9 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 <img src="https://i.ibb.co/WGL20ZX/st-small-507x507-pad-600x600-f8f8f8.jpg" width="400">
 </p>
 
-## Programming
-### Basics
-#### Courses
+##Programming
+###Basics
+####Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | https://www.sololearn.com/learning/1014 | Basics of HTML | **Completed** |
@@ -18,7 +18,7 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | https://www.sololearn.com/learning/1024 | Basics of JS | **Completed** |
 | https://www.codecademy.com/learn/learn-git | Basics of Git | **Completed** |
 
-#### Literature
+####Literature
 | Title | Author | Status | Link |
 | --- | :---: | :---: | :---: |
 | The Joy of PHP | Alan Forbes | In progress | shorturl.at/bzPS2 |
@@ -28,7 +28,7 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | Responsive Web Design with HTML5 and CSS | Ben Frain | In progress | shorturl.at/qtuB1 |
 
 
-### PHP
+###PHP
 ####Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
