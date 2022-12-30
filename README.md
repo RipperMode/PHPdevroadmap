@@ -35,8 +35,9 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | shorturl.at/jAMY3 | PHP OOP | In progress |
 | https://getcomposer.org/doc/ | Composer. A Dependency Manager for PHP | In progress |
 | https://www.yiiframework.com/doc/guide/2.0/en | Yii. Object-oriented, component-based MVC PHP web application framework | In progress |
-|  | Basics of SQL | **Completed** |
-|  | Basics of JS | **Completed** |
+| https://www.php-fig.org/psr/psr-12/ | PSR-12 | In progress |
+| shorturl.at/AFPS1 | CodeSniffer | In progress |
+| https://psalm.dev/ | Psalm | In progress |
 
 ####Databases
 | URL | Title | Status |
@@ -49,3 +50,10 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | URL | Title | Status |
 | :---: | --- | :---: |
 | https://www.youtube.com/watch?v=7qZBwhSlfOo | How to use a Debugger | In progress |
+
+####API
+| URL | Title | Status |
+| :---: | --- | :---: |
+| https://www.freecodecamp.org/news/how-to-use-rest-api/ | REST API | **Completed** |
+| https://jsonapi.org/ | JSON API | In progress |
+
