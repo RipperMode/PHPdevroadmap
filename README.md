@@ -17,32 +17,35 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | https://www.sololearn.com/learning/1060 | Basics of SQL | **Completed** |
 | https://www.sololearn.com/learning/1024 | Basics of JS | **Completed** |
 | https://www.codecademy.com/learn/learn-git | Basics of Git | **Completed** |
+
 #### Literature
 | Title | Author | Status | Link |
 | --- | :---: | :---: | :---: |
-| The Joy of PHP: A Beginner's Guide to Programming Interactive Web Applications with PHP and mySQL | Alan Forbes | In progress | https://www.amazon.com/Joy-PHP-Programming-Interactive-Applications-ebook/dp/B00BALXN70 |
-| PHP & MySQL – Novice to Ninja | Tom Butler, Kevin Yank | In progress | https://www.amazon.com/PHP-MySQL-Novice-Database-Website/dp/0987153080 |
-| Mastering PHP 7 | Branko Ajzele | In progress | https://www.amazon.com/Mastering-PHP-configure-professional-applications/dp/1785882813 |
-| Head first HTML5 | Eric Freeman, Elisabeth Robson | In progress | https://www.amazon.com/Head-First-HTML5-Programming-JavaScript/dp/1449390544 |
-| Responsive Web Design with HTML5 and CSS | Ben Frain | In progress | https://www.amazon.com/Responsive-Web-Design-HTML5-CSS-ebook/dp/B087D5FXXG |
+| The Joy of PHP | Alan Forbes | In progress | shorturl.at/bzPS2 |
+| PHP & MySQL – Novice to Ninja | Tom Butler, Kevin Yank | In progress | shorturl.at/hCIQS |
+| Mastering PHP 7 | Branko Ajzele | In progress | shorturl.at/bAPQZ |
+| Head first HTML5 | Eric Freeman, Elisabeth Robson | In progress | shorturl.at/noHN4 |
+| Responsive Web Design with HTML5 and CSS | Ben Frain | In progress | shorturl.at/qtuB1 |
 
 
 ### PHP
 ####Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/?persist_locale=&locale=en_US | PHP OOP | In progress |
+| shorturl.at/jAMY3 | PHP OOP | In progress |
 | https://getcomposer.org/doc/ | Composer. A Dependency Manager for PHP | In progress |
 | https://www.yiiframework.com/doc/guide/2.0/en | Yii. Object-oriented, component-based MVC PHP web application framework | In progress |
 |  | Basics of SQL | **Completed** |
 |  | Basics of JS | **Completed** |
+
 ####Databases
 | URL | Title | Status |
 | :---: | --- | :---: |
-| https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-R6DzlHgM1euGSoYe1T1oag&utm_medium=udemyads&utm_source=aff-campaign | MySQL | In progress |
+| shorturl.at/swGL6 | MySQL | In progress |
 | https://www.udemy.com/course/mastering-mongodb/ | MongoDB | In progress |
 | https://learn.mongodb.com/ | MongoDB but in general | In progress |
-####Debug
+
+####Debugger
 | URL | Title | Status |
 | :---: | --- | :---: |
 | https://www.youtube.com/watch?v=7qZBwhSlfOo | How to use a Debugger | In progress |
