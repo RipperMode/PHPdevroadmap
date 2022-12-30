@@ -18,7 +18,7 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | https://www.sololearn.com/learning/1024 | Basics of JS | **Completed** |
 | https://www.codecademy.com/learn/learn-git | Basics of Git | **Completed** |
 
-####Literature
+#### Literature
 | Title | Author | Status | Link |
 | --- | :---: | :---: | :---: |
 | The Joy of PHP | Alan Forbes | In progress | shorturl.at/bzPS2 |
@@ -28,8 +28,8 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | Responsive Web Design with HTML5 and CSS | Ben Frain | In progress | shorturl.at/qtuB1 |
 
 
-###PHP
-####Courses
+### PHP
+#### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | shorturl.at/jAMY3 | PHP OOP | In progress |
@@ -39,19 +39,19 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | shorturl.at/AFPS1 | CodeSniffer | In progress |
 | https://psalm.dev/ | Psalm | In progress |
 
-####Databases
+#### Databases
 | URL | Title | Status |
 | :---: | --- | :---: |
 | shorturl.at/swGL6 | MySQL | In progress |
 | https://www.udemy.com/course/mastering-mongodb/ | MongoDB | In progress |
 | https://learn.mongodb.com/ | MongoDB but in general | In progress |
 
-####Debugger
+#### Debugger
 | URL | Title | Status |
 | :---: | --- | :---: |
 | https://www.youtube.com/watch?v=7qZBwhSlfOo | How to use a Debugger | In progress |
 
-####API
+#### API
 | URL | Title | Status |
 | :---: | --- | :---: |
 | https://www.freecodecamp.org/news/how-to-use-rest-api/ | REST API | **Completed** |
