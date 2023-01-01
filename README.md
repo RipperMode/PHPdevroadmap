@@ -38,7 +38,7 @@ HTML&CSS, Bootstrap(+Tailwind, optionally)<BR>
 | URL | Title | Status |
 | :---: | --- | :---: |
 | shorturl.at/jAMY3 | PHP OOP | In progress |
-| https://getcomposer.org/doc/ | Composer. A Dependency Manager for PHP | In progress |
+| https://getcomposer.org/doc/ | Composer | In progress |
 | https://www.yiiframework.com/doc/guide/2.0/en | Yii | In progress |
 | https://www.php-fig.org/psr/psr-12/ | PSR-12 | In progress |
 | shorturl.at/AFPS1 | CodeSniffer | In progress |
