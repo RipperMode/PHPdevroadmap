@@ -1,6 +1,11 @@
 # PHP dev. roadmap
-The PHP developer roadmap (with a JS and Angular and Yii in addition)
+The PHP developer roadmap.
 
+Specifically:
+Yii framework for PHP;
+JavaScript + Angular framework;
+HTML&CSS, Bootstrap(+Tailwind, optionally)
+ 
 
 <p align="center"> 
 <img src="https://i.ibb.co/WGL20ZX/st-small-507x507-pad-600x600-f8f8f8.jpg" width="400">
@@ -39,21 +44,47 @@ The PHP developer roadmap (with a JS and Angular and Yii in addition)
 | shorturl.at/AFPS1 | CodeSniffer | In progress |
 | https://psalm.dev/ | Psalm | In progress |
 
-#### Databases
+### JavaScript
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| https://www.codecademy.com/learn/learn-intermediate-javascript | Intermediate JavaScript | In progress |
+| https://www.codecademy.com/learn/learn-typescript | TypeScript | In progress |
+| https://www.codecademy.com/learn/learn-node-js | Node.js basics | In progress |
+| https://www.sololearn.com/learning/1092 | Angular+NestJS | In progress |
+
+#### Literature
+| Title | Author | Status | Link |
+| --- | :---: | :---: | :---: |
+| Head First JavaScript Programming | Elisabeth Robson, Eric Freeman | In progress | shorturl.at/HVXY0 |
+
+
+### Databases
 | URL | Title | Status |
 | :---: | --- | :---: |
 | shorturl.at/swGL6 | MySQL | In progress |
 | https://www.udemy.com/course/mastering-mongodb/ | MongoDB | In progress |
-| https://learn.mongodb.com/ | MongoDB but in general | In progress |
+| https://learn.mongodb.com/ | MongoDB guides for specific issues | In progress |
 
-#### Debugger
+### Debugger
 | URL | Title | Status |
 | :---: | --- | :---: |
 | https://www.youtube.com/watch?v=7qZBwhSlfOo | How to use a Debugger | In progress |
 
-#### API
+### API
 | URL | Title | Status |
 | :---: | --- | :---: |
 | https://www.freecodecamp.org/news/how-to-use-rest-api/ | REST API | **Completed** |
 | https://jsonapi.org/ | JSON API | In progress |
 
+### HTML&CSS
+| URL | Title | Status |
+| :---: | --- | :---: |
+| https://www.sololearn.com/learning/1141 | Web-development basics | In progress |
+| https://www.sololearn.com/learning/1165 | Coding for Marketers | **Completed** |
+| https://www.sololearn.com/learning/1162 | Responsive Web design | **Completed** |
+| https://www.codecademy.com/learn/learn-bootstrap | Bootstrap tutorial | In progress |
+| https://www.youtube.com/watch?v=lCxcTsOHrjo | Tailwind guide | In progress |
+| https://www.codecademy.com/learn/learn-sass | Sass | In progress |
+| https://www.codecademy.com/learn/intro-to-ui-ux | UI&UX basics | In progress |
+| https://www.youtube.com/watch?v=sCPGfcQrdfc | How to deploy a site using Hostman | In progress |
