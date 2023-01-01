@@ -1,10 +1,10 @@
 # PHP dev. roadmap
 The PHP developer roadmap.
 
-Specifically:
-Yii framework for PHP;
-JavaScript + Angular framework;
-HTML&CSS, Bootstrap(+Tailwind, optionally)
+Specifically:<BR>
+Yii framework for PHP;<BR>
+JavaScript + Angular framework;<BR>
+HTML&CSS, Bootstrap(+Tailwind, optionally)<BR>
  
 
 <p align="center"> 
